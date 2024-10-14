@@ -1,0 +1,35 @@
+.hero-section {
+    height: 60vh;
+    background: url('https://source.unsplash.com/1600x900/?technology') no-repeat center center/cover;
+    position: relative;
+}
+
+.about-section {
+    background-color: #fc6d82;
+}
+
+.about-section img {
+    border-radius: 10px;
+}
+
+.contact-section {
+    background-color: #f39696;
+}
+
+footer {
+    background-color: #343a40;
+    color: rgb(247, 165, 165);
+}
+
+footer p {
+    margin: 0;
+}
+
+.btn-primary {
+    background-color: #f05375;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
